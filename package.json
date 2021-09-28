@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/LinkedInLearning/in-typescript-avanzado-2931139/issues"
   },
-  "homepage": "https://github.com/LinkedInLearning/in-typescript-avanzado-2931139#readme"
+  "homepage": "https://github.com/LinkedInLearning/in-typescript-avanzado-2931139#readme",
+  "devDependencies": {
+    "ts-loader": "^9.2.6",
+    "webpack": "^5.54.0",
+    "webpack-cli": "^4.8.0"
+  }
 }
